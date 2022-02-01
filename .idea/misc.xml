@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/activity_drawer.xml" value="0.2864583333333333" />
         <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/activity_home.xml" value="0.2864583333333333" />
         <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/activity_main.xml" value="0.2864583333333333" />
         <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/activity_second_fragment.xml" value="0.2864583333333333" />
         <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/fragment_first.xml" value="0.2864583333333333" />
         <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/fragment_second.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/layout/nav_header.xml" value="0.2864583333333333" />
+        <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/menu/drawer_menu.xml" value="0.1638888888888889" />
         <entry key="..\:/Users/yadav/AndroidStudioProjects/FragmentPractice_1/app/src/main/res/menu/main_menu.xml" value="0.2864583333333333" />
       </map>
     </option>
